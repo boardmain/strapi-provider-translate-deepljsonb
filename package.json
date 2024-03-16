@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-translate-deepljsonb",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "DeepL provider for translate plugin in Strapi 4 with Jsonb support",
   "keywords": [
     "strapi",

@@ -2,6 +2,18 @@
 
 with this strapi translate plugin , you can translate all blocks JSONB paragraph text.
 
+add   { type: 'blocks', format: 'markdown' }, in the translate plugin transaltedFieldTypes
+as follow
+
+translatedFieldTypes: [
+        'string',
+        { type: 'text', format: 'plain' },
+        { type: 'blocks', format: 'markdown' },
+        { type: 'richtext', format: 'markdown' },
+        'component', 
+        'dynamiczone',
+      ],
+
 Configure the provider through the pluginOptions:
 
 ```js
