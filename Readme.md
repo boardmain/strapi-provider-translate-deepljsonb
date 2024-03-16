@@ -1,6 +1,6 @@
 # DeepL provider for Strapi Translate Plugin
 
-with this strapi translate plugin , you can translate all paragraph text.
+with this strapi translate plugin , you can translate all blocks JSONB paragraph text.
 
 Configure the provider through the pluginOptions:
 
