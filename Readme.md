@@ -1,5 +1,7 @@
 # DeepL provider for Strapi Translate Plugin
 
+with this strapi translate plugin , you can translate all paragraph text.
+
 Configure the provider through the pluginOptions:
 
 ```js

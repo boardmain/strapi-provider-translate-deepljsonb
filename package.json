@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-translate-deepljsonb",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "DeepL provider for translate plugin in Strapi 4 with Jsonb support",
   "keywords": [
     "strapi",
@@ -9,7 +9,7 @@
     "deepl",
     "jsonb"
   ],
-  "author": "Samuele Coppedè",
+  "author": "Samuele Coppedè <boardmain@gmail.com>",
   "license": "ISC",
   "main": "./lib",
   "directories": {
@@ -26,9 +26,9 @@
   },
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",
-    "@strapi/plugin-i18n": "^4.20.2",
+    "@strapi/plugin-i18n": "^4.20.5",
     "jest": "^29.7.0",
-    "msw": "^2.2.2"
+    "msw": "^2.2.4"
   },
   "peerDependencies": {
     "lodash": "*",
